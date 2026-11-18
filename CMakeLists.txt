@@ -4,4 +4,6 @@ project(17_11_2026)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(17_11_2026 main.cpp
-        ZooException.h)
+        ZooException.h
+        Tvaryna.cpp
+        Tvaryna.h)
