@@ -6,4 +6,8 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(17_11_2026 main.cpp
         ZooException.h
         Tvaryna.cpp
-        Tvaryna.h)
+        Tvaryna.h
+        VolierKlitka.cpp
+        VolierKlitka.h
+        SpecificAnimals.cpp
+        SpecificAnimals.h)
